@@ -1,3 +1,5 @@
+<img width="2880" height="1472" alt="hands" src="https://github.com/user-attachments/assets/967512e3-c3a4-4df4-a921-642e9227f034" />
+
 ## 👩‍💻 About Me
 
 Hi, I’m **Christina**.
