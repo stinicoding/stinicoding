@@ -4,7 +4,7 @@
 
 Hi, I’m **Christina**.
 
-I’m a developer with a background in **IT consulting and corporate performance management**, currently transitioning into more technically focused roles in **software and data engineering**.
+I’m a software developer with a background in **IT consulting and Corporate Performance Management (CPM/BI)**, where I worked with structured data, reporting systems and business process workflows.
 
 My main focus is building **web applications using the MERN stack** (MongoDB, Express, React, Node.js) and gaining hands-on experience with **data-driven systems**. I care deeply about **clean architecture, maintainable code**, and translating **business requirements into robust technical solutions**.
 
